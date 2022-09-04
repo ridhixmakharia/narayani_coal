@@ -1,0 +1,107 @@
+
+
+h1, h4 {
+  font-family: Cormorant;
+}
+
+h3 {
+  font-family: Montserrat;
+  font-weight: lighter;
+}
+
+h5 {
+  font-family: Montserrat;
+}
+
+
+body, html {
+  height: 100%;
+}
+
+
+#navbar {
+  background-color: #0F0F0F;
+  position: fixed;
+  transition: top 0.5s;
+  top: -180px;
+  width: 100%;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+
+.heading-logo {
+  /*background-color: #0F0F0F;*/
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+
+.img-logo {
+  width: 50%;
+  margin: 20%;
+}
+
+
+.about {
+  font-size: 300%;
+  font-family: Cormorant;
+  padding-bottom: 3%;
+}
+
+
+.parallax {
+  background-image: url("./images/img2.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.white_bg {
+  padding: 10% 10%;
+  background-color: white;
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 80%;
+}
+
+.product {
+  text-align: center;
+  color: #0F0F0F;
+}
+
+.logos{
+  max-width: 100%;
+  height: auto;
+}
+
+.name {
+  font-size: 150%;
+  font-family: Montserrat;
+
+}
+
+.sub-heading{
+  font-family: Montserrat;
+  font-weight: lighter;
+  font-size: 100%;
+}
+
+.details{
+  font-family: Montserrat;
+}
+
+.description-contact {
+  background-color: #0F0F0F;
+  color: white;
+  margin: 5%;
+}
